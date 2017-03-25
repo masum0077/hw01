@@ -142,6 +142,7 @@ body>section:nth-child(3) {
     position: relative;
     z-index: -2;
     overflow: hidden;
+    width: 100%;
 }
 body>section:nth-child(3):after {
     position: absolute;
